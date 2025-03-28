@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neoflow"
+version = "0.0.0"
+authors = [
+  { name="Igor Paim", email="igor.paim@neoprospecta.com" },
+]
+description = "Neoflow"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: ",
+    "Operating System :: OS Independent",
+]

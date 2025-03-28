@@ -1,0 +1,1 @@
+docker build -f src/download_fastqs/Dockerfile . -t download_fastqs
